@@ -1,2 +1,2 @@
-It is a first file.# DEMO
+First Modification
 It is a demo repository.
